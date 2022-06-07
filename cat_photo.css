@@ -1,0 +1,23 @@
+nav{
+    
+    background-color: rgb(45, 81, 45);
+    padding:0px;
+    margin:0px;
+    overflow: hidden;
+
+
+}
+.navigation{
+    float:left;
+    
+}
+nav div{
+    display: block;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    padding:14px 16px;
+}
+nav div:hover{
+    background-color: black;
+}
