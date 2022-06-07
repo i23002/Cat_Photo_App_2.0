@@ -22,3 +22,15 @@ nav div{
 nav div:hover{
     background-color: black;
 }
+.header{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+/*Main scetion */
+main{
+    font-family: 'Times New Roman', Times, serif;
+}
+main h2{
+    text-align: center;
+}
+
